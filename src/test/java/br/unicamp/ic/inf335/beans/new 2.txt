@@ -1,2 +1,0 @@
-C:\Program Files\apache-maven-3.9.11\bin
-C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Papai\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\heroku\bin;C:\Users\Papai\AppData\Local\GitHubDesktop\bin;C:\Users\Papai\AppData\Roaming\npm;C:\Program Files\apache-maven-3.9.11\bin

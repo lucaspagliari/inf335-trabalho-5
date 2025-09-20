@@ -1,11 +1,7 @@
 package br.unicamp.ic.inf335.beans;
 
-// AnuncianteBeanTest.java
-import org.junit.Test;
-import static org.junit.Assert.*;
-
-import br.unicamp.ic.inf335.beans.*;
-
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.*;
 
 
 import java.util.ArrayList;

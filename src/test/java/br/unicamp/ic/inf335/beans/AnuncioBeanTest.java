@@ -1,11 +1,7 @@
 package br.unicamp.ic.inf335.beans;
 
-// AnuncioBeanTest.java
-import org.junit.Test;
-
-import br.unicamp.ic.inf335.beans.*;
-
-import static org.junit.Assert.*;
+import static org.junit.jupiter.api.Assertions.*;
+import org.junit.jupiter.api.*;
 
 public class AnuncioBeanTest {
 

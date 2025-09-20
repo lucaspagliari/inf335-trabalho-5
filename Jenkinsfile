@@ -11,7 +11,6 @@ pipeline {
             steps {
                 // Busca o código do repositório do GitHub
                 git 'https://github.com/lucaspagliari/INF335-trabalho-5.git/'
-
                 // Executa o Maven
                 sh "mvn -Dmaven.test.failure.ignore=true clean package"
 
@@ -27,3 +26,5 @@ pipeline {
         }
     }
 }
+
+
